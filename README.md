@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Smrutisnigdha Swain</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=740&t=st=1701697275~exp=1701697875~hmac=8b2e0b124d661bb82b3e7a9bfb0f0fde005e4f448138ea969339d9354104db93">
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?w=740&t=st=1701697275~exp=1701697875~hmac=8b2e0b124d661bb82b3e7a9bfb0f0fde005e4f448138ea969339d9354104db93">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smruti0009&label=Profile%20views&color=0e75b6&style=flat" alt="Smruti0009" /> </p>
 
-- 🔭 I’m currently working on **Smart Content Manager**
+- 🔭 I’m currently working on the project **Smart Content Manager**
 
 - 🌱 I’m currently learning **Spring MVC, Android, Artificial Intelligence**
 
