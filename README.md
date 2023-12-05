@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring MVC, Android, Artificial Intelligence**
 
-- 📫 How to reach me **smrutisnigdha1998k@gmail.com**
+- 📫 How to reach me **smruti.swain9k@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
